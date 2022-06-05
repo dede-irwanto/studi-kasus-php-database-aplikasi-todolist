@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" type="PhpLocalRunConfigurationType" factoryName="PHP Console" editBeforeRun="true">
+    <CommandLine workingDirectory="$PROJECT_DIR$">
+      <PhpTestInterpreterSettings>
+        <option name="interpreterName" value="PHP 8.1" />
+      </PhpTestInterpreterSettings>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>
